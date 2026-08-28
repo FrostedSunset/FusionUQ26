@@ -1,4 +1,4 @@
-# Stain-AwareFusionandQuantile-FreeUncertaintyQuantification for ReliableLightweightCervicalCellDetection
+# Stain-Aware Fusion and Quantile-Free Uncertainty Quantification for Reliable Lightweight Cervical Cell Detection
 
 This repository contains the official PyTorch implementation of our paper:
 
