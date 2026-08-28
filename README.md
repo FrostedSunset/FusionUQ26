@@ -1,4 +1,4 @@
-# Uncertainty Calibration With Conformal Prediction For Multi-Scale Abnormal Cervical Cell Detection
+# Stain-AwareFusionandQuantile-FreeUncertaintyQuantification for ReliableLightweightCervicalCellDetection
 
 This repository contains the official PyTorch implementation of our paper:
 
