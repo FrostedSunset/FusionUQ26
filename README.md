@@ -2,13 +2,13 @@
 
 This repository contains the official PyTorch implementation of our paper:
 
-> **Uncertainty Calibration With Conformal Prediction For Multi-Scale Abnormal Cervical Cell Detection**  
+> **Stain-Aware Fusion and Quantile-Free Uncertainty Quantification for Reliable Lightweight Cervical Cell Detection**  
 
 ---
 
 ## 📌 Important Note
 
-> **This repository provides the core implementation of our proposed framework, including the LSAB-Net backbone, CFAM module, and conformal prediction-based uncertainty calibration.**
+> **This repository provides the core implementation of our proposed framework, including the CytNet backbone, SATF module, and Quantile-Free Uncertainty Quantification.**
 >
 > The code is currently **not the final release version**. We are actively refining and optimizing the codebase. The final version with full documentation and pretrained models will be released upon paper acceptance.
 
